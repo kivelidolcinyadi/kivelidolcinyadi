@@ -1,6 +1,6 @@
 # Kyveli
 
-Co-founder of [Archetype](https://usearchetype.co) — a platform that reads what people
+Co-founder of [Archetype](https://usearchetype.co), a platform that reads what people
 say about a brand in public (reviews, Reddit, comment sections) and turns it into
 personas and answers that cite the real comments behind them. Part of the
 Sciences Po accelerator.
