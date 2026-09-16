@@ -1,4 +1,4 @@
-# Kyveli
+# Kiveli (Kyveli)
 
 Co-founder of [Archetype](https://usearchetype.co), a platform that reads what people
 say about a brand in public (reviews, Reddit, comment sections) and turns it into
